@@ -26,7 +26,7 @@ export default function Board(props: Props) {
 
   React.useEffect(() => {
     const score = localStorage.getItem("score");
-    setScore(JSON.parse(score || "{ X: 0, O: 0 }"));
+    setScore(JSON.parse(score || "{ \"X\": 0, \"O\": 0 }"));
   }, []);
 
   React.useEffect(() => {
