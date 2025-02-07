@@ -2,6 +2,11 @@
 
 This is a **Tic-Tac-Toe** game built with **React**, **TypeScript**, and **Vite**.
 
+## 🚀 Live Demo
+
+The game has been deployed on **Vercel**. You can try it here:  
+👉 [Play Tic-Tac-Toe](https://tic-tac-toe-kqsq.vercel.app/)
+
 ## 🚀 Installation and Running the Project
 
 ### 1. Clone the Repository
